@@ -13,7 +13,7 @@ A conversational chatbot designed to interact with users, answer questions, and 
 
 ### Prerequisites
 
-- Python 3.x (or specify your project language and version)
+- Node Js x JAVA SCRIPT
 - Required packages (see `requirements.txt`)
 
 ### Installation
